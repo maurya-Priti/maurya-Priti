@@ -1,4 +1,5 @@
-![GitHub Banner Landscape](https://github.com/maurya-Priti/About-me/assets/106819391/c97e8497-c904-4d41-a568-2e0cd8c7c159)
+
+![GitHub Banner Landscape](https://github.com/maurya-Priti/maurya-Priti/assets/106819391/9f6f1d73-e6a1-4f7e-b98e-75a535db3056)
 
 <h1 align="center">👋 Hey there, I'm Priti Maurya!</h1>
 <h3 align="center">🚀 Highly motivated and dedicated recent graduate in Computer Science, eagerly seeking opportunities to leverage my knowledge and skills to make impact within an organization, contributing to its growth and further honoring my abilities for a prosperous career journey.🚀 Highly motivated and dedicated recent graduate in Computer Science, eagerly seeking opportunities to leverage my knowledge and skills to make impact within an organization, contributing to its growth and further honoring my abilities for a prosperous career journey.</h3>
