@@ -2,7 +2,14 @@
 ![GitHub Banner Landscape](https://github.com/maurya-Priti/maurya-Priti/assets/106819391/9f6f1d73-e6a1-4f7e-b98e-75a535db3056)
 
 <h1 align="center">👋 Hey there, I'm Priti Maurya!</h1>
-<h3 align="center">🚀 Highly motivated and dedicated recent graduate in Computer Science, eagerly seeking opportunities to leverage my knowledge and skills to make impact within an organization, contributing to its growth and further honoring my abilities for a prosperous career journey.</h3>
+<h3 align="center">🚀 I'm passionate about web development and have experience with technologies like HTML, CSS, JavaScript, React, SQL, GitHub, Python, Django, and Flask.
+
+💼 Previously, I interned as a Web Developer and Python Developer at Sahu Technologies, where I worked on transforming static designs into responsive web pages and engineered advanced Django-based Ecommerce platforms.
+
+🎓 I hold a Bachelor of Engineering in Computer Science from the University of Mumbai.
+
+🛠️ In my academic projects, I've collaborated on creating innovative solutions based on Artificial Intelligence.
+</h3>
 
 
 
