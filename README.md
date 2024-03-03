@@ -2,7 +2,7 @@
 ![GitHub Banner Landscape](https://github.com/maurya-Priti/maurya-Priti/assets/106819391/9f6f1d73-e6a1-4f7e-b98e-75a535db3056)
 
 <h1 align="center">👋 Hey there, I'm Priti Maurya!</h1>
-<h5 align="center">🚀 I'm passionate about web development and have experience with technologies like HTML, CSS, JavaScript, React, SQL, GitHub, Python, Django, and Flask.
+<h5">🚀 I'm passionate about web development and have experience with technologies like HTML, CSS, JavaScript, React, SQL, GitHub, Python, Django, and Flask.
 
 💼 Previously, I interned as a Web Developer and Python Developer at Sahu Technologies, where I worked on transforming static designs into responsive web pages and engineered advanced Django-based Ecommerce platforms.
 
