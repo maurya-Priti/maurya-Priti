@@ -1,5 +1,11 @@
 # 💫 About Me:
+https://github.com/maurya-Priti/maurya-Priti/assets/106819391/e68b61fa-94e2-40b2-b44c-d62c879812db
+
 🚀 I'm passionate Python Developer.<br><br>🔭 I have experience with technologies like HTML, CSS, JavaScript, React, SQL, GitHub, Python, Django, and Flask.<br><br>🎓 I hold a Bachelor of Engineering in Computer Science from the University of Mumbai.<br><br>🛠️ In my academic projects, I've collaborated on creating innovative solutions based on Artificial Intelligence.
+
+
+
+
 
 
 ## 🌐 Socials:
